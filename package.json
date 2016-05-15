@@ -1,0 +1,20 @@
+{
+  "name": "webgltestbed",
+  "version": "1.0.0",
+  "description": "WebGL testbed.",
+  "main": "index.html",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Brand",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "dat-gui": "^0.5.0",
+    "exdat": "github:anvaka/dat.gui",
+    "jquery": "^2.2.3",
+    "stats": "^1.0.0",
+    "three.js": "^0.73.2"
+  }
+}
